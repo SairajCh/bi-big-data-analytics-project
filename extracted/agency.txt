@@ -1,0 +1,222 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+1,GYRE Arverio Bayern GmbH,https://www.bahn.de,Europe/Berlin,de
+10,800721 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+100,Trenitalia,https://www.bahn.de,Europe/Berlin,de
+101,800318 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+102,SBB GmbH,https://www.bahn.de,Europe/Berlin,de
+103,800354 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+104,DB Fernverkehr (Codesharing),https://www.bahn.de,Europe/Berlin,de
+105,NBRB27 NEB Niederbarnimer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+106,800430 DB RegioNetz Verkehrs GmbH Erzgebirgsbahn,https://www.bahn.de,Europe/Berlin,de
+107,European Sleeper,https://www.bahn.de,Europe/Berlin,de
+108,kvv22E KVV,https://www.bahn.de,Europe/Berlin,de
+109,NBRB36 NEB Niederbarnimer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+11,800486 DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+110,800574 DB Regio AG Mitte Region Hessen,https://www.bahn.de,Europe/Berlin,de
+111,ZSSK,https://www.bahn.de,Europe/Berlin,de
+112,800159 DB Regio AG Nordost,https://www.bahn.de,Europe/Berlin,de
+113,DB Fernverkehr AG,https://www.bahn.de,Europe/Berlin,de
+114,Arverio Baden-Württemberg GmbH,https://www.bahn.de,Europe/Berlin,de
+115,EUROSTAR,https://www.bahn.de,Europe/Berlin,de
+116,ZVON Oberlausitz-Niederschlesien,https://www.bahn.de,Europe/Berlin,de
+117,800417 DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+118,TRI Train Rental GmbH,https://www.bahn.de,Europe/Berlin,de
+119,Harzer Schmalspurbahn,https://www.bahn.de,Europe/Berlin,de
+12,Dessauer Verkehrsgesellschaft,https://www.bahn.de,Europe/Berlin,de
+120,ABELLIO Rail Mitteldeutschland GmbH,https://www.bahn.de,Europe/Berlin,de
+121,Erfurter Bahn Express,https://www.bahn.de,Europe/Berlin,de
+122,REGIOBAHN,https://www.bahn.de,Europe/Berlin,de
+123,801539 DB Regio AG Mitte Region Südwest,https://www.bahn.de,Europe/Berlin,de
+124,National Express,https://www.bahn.de,Europe/Berlin,de
+125,8003G2 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+126,City-Bahn Chemnitz,https://www.bahn.de,Europe/Berlin,de
+127,AKN Eisenbahn GmbH,https://www.bahn.de,Europe/Berlin,de
+128,BayernBahn Betriebs-GmbH,https://www.bahn.de,Europe/Berlin,de
+129,SDG Sächsische Dampfeisenbahngesellschaft mbH,https://www.bahn.de,Europe/Berlin,de
+13,800337 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+130,8005MW DB Regio AG Mitte Region Hessen,https://www.bahn.de,Europe/Berlin,de
+131,agilis-Schnellzug,https://www.bahn.de,Europe/Berlin,de
+132,800643 DB Regio AG S-Bahn Stuttgart,https://www.bahn.de,Europe/Berlin,de
+133,800348 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+134,Nordbahn Eisenbahngesellschaft,https://www.bahn.de,Europe/Berlin,de
+135,800262 DB Regio AG Nord,https://www.bahn.de,Europe/Berlin,de
+136,eurobahn,https://www.bahn.de,Europe/Berlin,de
+137,800363 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+138,800571 DB Regio AG Mitte Region Hessen,https://www.bahn.de,Europe/Berlin,de
+139,DB Regio AG Nord,https://www.bahn.de,Europe/Berlin,de
+14,800759 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+140,NBRB12 NEB Niederbarnimer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+141,8003L1 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+142,800772 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+143,800520 DB Regio AG Mitte,https://www.bahn.de,Europe/Berlin,de
+144,800489 DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+145,800413 DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+146,CFL,https://www.bahn.de,Europe/Berlin,de
+147,vogtlandbahn - Die Länderbahn GmbH DLB,https://www.bahn.de,Europe/Berlin,de
+148,erixx,https://www.bahn.de,Europe/Berlin,de
+149,8006D2 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+15,Flixtrain,https://www.bahn.de,Europe/Berlin,de
+150,8007H2 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+151,800155 DB Regio AG Nordost,https://www.bahn.de,Europe/Berlin,de
+152,NBRB26 NEB Niederbarnimer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+153,Mecklenburgische Bäderbahn Molli,https://www.bahn.de,Europe/Berlin,de
+154,Rhenus Veniro,https://www.bahn.de,Europe/Berlin,de
+155,800725 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+156,KVG M,https://www.bahn.de,Europe/Berlin,de
+157,800553 DB Regio AG Mitte Region Hessen,https://www.bahn.de,Europe/Berlin,de
+158,800572 DB Regio AG Mitte Region Hessen,https://www.bahn.de,Europe/Berlin,de
+159,S Bahn Berlin GmbH,https://www.bahn.de,Europe/Berlin,de
+16,800161 DB Regio AG Nordost,https://www.bahn.de,Europe/Berlin,de
+160,8007D4 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+161,8007D5 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+162,8003G1 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+163,Norddeutsche Eisenbahn Gesellschaft,https://www.bahn.de,Europe/Berlin,de
+164,8015A1 DB Regio AG Mitte Region Südwest,https://www.bahn.de,Europe/Berlin,de
+165,MittelrheinBahn (Trans Regio),https://www.bahn.de,Europe/Berlin,de
+166,Südwestdeutsche Verkehrs-AG,https://www.bahn.de,Europe/Berlin,de
+167,Brohltalbahn,https://www.bahn.de,Europe/Berlin,de
+168,PKP Intercity,https://www.bahn.de,Europe/Berlin,de
+169,800693 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+17,8002WF DB Regio AG Nord,https://www.bahn.de,Europe/Berlin,de
+170,8002B5 DB Regio AG Nord,https://www.bahn.de,Europe/Berlin,de
+171,Gesellschaft zur Förderung des ÖPNV Regensburg,https://www.bahn.de,Europe/Berlin,de
+172,8003A5 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+173,800445 DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+174,8006C5 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+175,Hessische Landesbahn,https://www.bahn.de,Europe/Berlin,de
+176,Süd-Thüringen-Bahn Express,https://www.bahn.de,Europe/Berlin,de
+177,Bayerische Regiobahn,https://www.bahn.de,Europe/Berlin,de
+178,GYRB Arverio Bayern GmbH,https://www.bahn.de,Europe/Berlin,de
+179,800790 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+18,VIAS Rail GmbH,https://www.bahn.de,Europe/Berlin,de
+180,800654 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+181,800694 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+182,800158 DB Regio AG Nordost,https://www.bahn.de,Europe/Berlin,de
+183,800351 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+184,801518 DB Regio AG Mitte Region Südwest,https://www.bahn.de,Europe/Berlin,de
+185,800295 DB Regio AG Nord,https://www.bahn.de,Europe/Berlin,de
+186,8003H5 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+187,NordWestBahn,https://www.bahn.de,Europe/Berlin,de
+188,8002A3 DB Regio AG Nord,https://www.bahn.de,Europe/Berlin,de
+189,EVB ELBE-WESER GmbH,https://www.bahn.de,Europe/Berlin,de
+19,NBRB61 NEB Niederbarnimer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+190,DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+191,Bentheimer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+192,8004A9 DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+193,Bayerische Regionalbahn,https://www.bahn.de,Europe/Berlin,de
+194,800469 DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+195,trilex-express - Die Länderbahn GmbH DLB,https://www.bahn.de,Europe/Berlin,de
+196,Süd-Thüringen-Bahn,https://www.bahn.de,Europe/Berlin,de
+197,800349 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+198,8005A4 DB Regio AG Mitte Region Hessen,https://www.bahn.de,Europe/Berlin,de
+199,DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+2,Daadetalbahn,https://www.bahn.de,Europe/Berlin,de
+20,8005KG DB Regio AG Mitte Region Hessen,https://www.bahn.de,Europe/Berlin,de
+200,NBRB25 NEB Niederbarnimer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+201,WestfalenBahn,https://www.bahn.de,Europe/Berlin,de
+202,NBRB54 NEB Niederbarnimer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+203,Harzer Schmalspurbahnen,https://www.hsb.de/,Europe/Berlin,de
+204,850065 THURBO,https://www.bahn.de,Europe/Berlin,de
+205,8006C6 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+206,vlexx,https://www.bahn.de,Europe/Berlin,de
+207,800201 DB Regio AG Nord,https://www.bahn.de,Europe/Berlin,de
+208,S-Bahn Hamburg,https://www.bahn.de,Europe/Berlin,de
+209,800714 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+21,801512 DB Regio AG Mitte Region Südwest,https://www.bahn.de,Europe/Berlin,de
+210,Pressnitztalbahn,https://www.bahn.de,Europe/Berlin,de
+211,800292 DB Regio AG Nord,https://www.bahn.de,Europe/Berlin,de
+212,Hanseatische Eisenbahn GmbH,https://www.bahn.de,Europe/Berlin,de
+213,800523 DB RegioNetz Verkehrs GmbH Kurhessenbahn,https://www.bahn.de,Europe/Berlin,de
+214,800647 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+215,Verkehrsverbund Oberelbe,https://www.bahn.de,Europe/Berlin,de
+216,800632 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+217,NBRB63 NEB Niederbarnimer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+218,Freiberger Eisenbahngesellschaft,https://www.bahn.de,Europe/Berlin,de
+219,Ceske Drahy,https://www.bahn.de,Europe/Berlin,de
+22,800333 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+220,SBB,https://www.bahn.de,Europe/Berlin,de
+221,8005ND DB Regio AG Mitte Region Hessen,https://www.bahn.de,Europe/Berlin,de
+23,Kasbachtalbahn,https://www.bahn.de,Europe/Berlin,de
+24,800151 DB Regio AG Nordost,https://www.bahn.de,Europe/Berlin,de
+25,cantus Verkehrsgesellschaft,https://www.bahn.de,Europe/Berlin,de
+26,oberpfalzbahn - Die Länderbahn GmbH DLB,https://www.bahn.de,Europe/Berlin,de
+27,800767 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+28,Nahreisezug,https://www.bahn.de,Europe/Berlin,de
+29,HZZP,https://www.bahn.de,Europe/Berlin,de
+3,800156 DB Regio AG Nordost,https://www.bahn.de,Europe/Berlin,de
+30,Sächsisch-Oberlausitzer Eisenbahngesellschaft,https://www.bahn.de,Europe/Berlin,de
+31,800456 DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+32,Albtal-Verkehrs-Gesellschaft,https://www.bahn.de,Europe/Berlin,de
+33,Rurtalbahn,https://www.bahn.de,Europe/Berlin,de
+34,MAV,https://www.bahn.de,Europe/Berlin,de
+35,SNCF,https://www.bahn.de,Europe/Berlin,de
+36,800352 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+37,8007DU DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+38,8005L1 DB Regio AG Mitte,https://www.bahn.de,Europe/Berlin,de
+39,800528 DB Regio AG Mitte Region Hessen,https://www.bahn.de,Europe/Berlin,de
+4,alex - Die Länderbahn GmbH DLB,https://www.bahn.de,Europe/Berlin,de
+40,Bayerische Zugspitzbahn,https://www.bahn.de,Europe/Berlin,de
+41,800166 DB Regio AG Nordost,https://www.bahn.de,Europe/Berlin,de
+42,RheinRuhrBahn,https://www.bahn.de,Europe/Berlin,de
+43,ÖBB,https://www.bahn.de,Europe/Berlin,de
+44,DB RegioNetz Verkehrs GmbH Südostbayernbahn,https://www.bahn.de,Europe/Berlin,de
+45,8015A6 DB Regio AG Mitte Region Südwest,https://www.bahn.de,Europe/Berlin,de
+46,800163 DB Regio AG Nordost,https://www.bahn.de,Europe/Berlin,de
+47,800755 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+48,agilis,https://www.bahn.de,Europe/Berlin,de
+49,8006D6 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+5,8004L1 DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+50,8003L2 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+51,800310 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+52,trilex - Die Länderbahn GmbH DLB,https://www.bahn.de,Europe/Berlin,de
+53,800640 SÜWEX,https://www.bahn.de,Europe/Berlin,de
+54,AUTOZUG Sylt,https://www.bahn.de,Europe/Berlin,de
+55,Schwäbische Alb-Bahn,https://www.bahn.de,Europe/Berlin,de
+56,800603 DB RegioNetz Verkehrs GmbH Westfrankenbahn,https://www.bahn.de,Europe/Berlin,de
+57,8015FR DB Regio AG Mitte Region Südwest,https://www.bahn.de,Europe/Berlin,de
+58,8006E3 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+59,NBRB60 NEB Niederbarnimer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+6,800487 DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+60,Touristische Bahnen (diverse),https://www.bahn.de,Europe/Berlin,de
+61,801526 DB Regio AG Mitte Region Südwest,https://www.bahn.de,Europe/Berlin,de
+62,Erfurter Bahn,https://www.bahn.de,Europe/Berlin,de
+63,801513 DB Regio AG Mitte Region Südwest,https://www.bahn.de,Europe/Berlin,de
+64,800720 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+65,SNCB,https://www.bahn.de,Europe/Berlin,de
+66,MittelSachsen,https://www.bahn.de,Europe/Berlin,de
+67,Gesamtnetz der deutschen Bahn,https://www.bahn.de,Europe/Berlin,de
+68,Nebenbahn Gaildorf-Untergröningen,https://www.bahn.de,Europe/Berlin,de
+69,8006A7 DB RegioNetz Verkehrs GmbH Westfrankenbahn,https://www.bahn.de,Europe/Berlin,de
+7,VIAS GmbH,https://www.bahn.de,Europe/Berlin,de
+70,Mitteldeutsche Regiobahn,https://www.bahn.de,Europe/Berlin,de
+71,enno,https://www.bahn.de,Europe/Berlin,de
+72,810003 Montafoner Bahn,https://www.bahn.de,Europe/Berlin,de
+73,800338 DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+74,800765 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+75,Die Länderbahn GmbH,https://www.bahn.de,Europe/Berlin,de
+76,800160 DB Regio AG Nordost,https://www.bahn.de,Europe/Berlin,de
+77,800248 DB Regio AG Nord,https://www.bahn.de,Europe/Berlin,de
+78,Bodensee-Oberschwaben-Verkehrsverbund,https://www.bahn.de,Europe/Berlin,de
+79,8006C4 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+8,8005L2 DB Regio AG Mitte,https://www.bahn.de,Europe/Berlin,de
+80,Dessau-Wörlitzer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+81,800293 DB Regio AG Nord,https://www.bahn.de,Europe/Berlin,de
+82,waldbahn - Die Länderbahn GmbH DLB,https://www.bahn.de,Europe/Berlin,de
+83,Karlsruher Verkehrsverbund,https://www.bahn.de,Europe/Berlin,de
+84,DB Regio AG NRW,https://www.bahn.de,Europe/Berlin,de
+85,Verkehrsverbund Stuttgart,https://www.bahn.de,Europe/Berlin,de
+86,8007H3 DB Regio AG Bayern,https://www.bahn.de,Europe/Berlin,de
+87,800153 DB Regio AG Nordost,https://www.bahn.de,Europe/Berlin,de
+88,800622 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+89,metronom,https://www.bahn.de,Europe/Berlin,de
+9,Wanderbahn im Regental,https://www.bahn.de,Europe/Berlin,de
+90,8004NT DB Regio AG Südost,https://www.bahn.de,Europe/Berlin,de
+91,NBRB35 NEB Niederbarnimer Eisenbahn,https://www.bahn.de,Europe/Berlin,de
+92,800659 DB Regio AG Baden-Württemberg,https://www.bahn.de,Europe/Berlin,de
+93,8004OB DB RegioNetz Verkehrs GmbH Oberweisbacher Berg+Schwa,https://www.bahn.de,Europe/Berlin,de
+94,Go-Ahead,https://www.bahn.de,Europe/Berlin,de
+95,WESTbahn,https://www.bahn.de,Europe/Berlin,de
+96,S-Bahn Hannover,https://www.bahn.de,Europe/Berlin,de
+97,R4WEST VIAS Rail GmbH,https://www.bahn.de,Europe/Berlin,de
+98,Bodensee-Oberschwaben-Bahn,https://www.bahn.de,Europe/Berlin,de
+99,Ostdeutsche Eisenbahn GmbH,https://www.bahn.de,Europe/Berlin,de
